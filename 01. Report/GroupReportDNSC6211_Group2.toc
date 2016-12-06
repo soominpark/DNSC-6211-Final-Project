@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Background}{3}{section.2}
+\contentsline {section}{\numberline {3}Method}{3}{section.3}
+\contentsline {section}{\numberline {4}Organization}{4}{section.4}
+\contentsline {subsection}{\numberline {4.1}Workflow}{4}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Project structure}{4}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Figures and Tables}{5}{subsection.4.3}
+\contentsline {section}{\numberline {5}Discussion}{15}{section.5}
+\contentsline {subsection}{\numberline {5.1}Learnings}{15}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Challenges}{16}{subsection.5.2}
+\contentsline {section}{\numberline {6}Conclusion}{16}{section.6}
+\contentsline {section}{\numberline {7}References}{16}{section.7}
